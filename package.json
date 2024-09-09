@@ -1,0 +1,28 @@
+{
+  "name": "reactcode",
+  "version": "1.0.0",
+  "description": "Using React I will make help full application for comman man.",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumedhk567/React.git"
+  },
+  "keywords": [
+    "SB",
+    "AD",
+    "MK"
+  ],
+  "author": "Sumedh S Kamble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumedhk567/React/issues"
+  },
+  "homepage": "https://github.com/sumedhk567/React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
+ 
